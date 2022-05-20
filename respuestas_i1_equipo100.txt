@@ -6,3 +6,4 @@ a-si, lo puedo ver
 b-si, los pueden ver
 c-sí, lo pueden ver.
 d-WhatsApp y Discord
+e- Siendo bastantes claros con descripción en los commits.
